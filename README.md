@@ -1,5 +1,14 @@
 ### Hi there 👋
+- :zap: My name is Yopi Inquimboy
+- I am currently working on getting my B.S. in Information Technology at [UNCW](uncw.edu)
+- You can find me here:
+  - :office: [LinkedIn](https://www.linkedin.com/in/iofiel-inquimboy-6a8300207/) 
+- :alien: Fun facts about me:
+  - :athletic_shoe: I like to collect sneakers
+  - :game_die: I can solve a Rubiks cube in less than 30 seconds
+  - :apple: I use MacOS
 
+[![Yopi's github stats](https://github-readme-stats.vercel.app/api?username=yopinq&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **yopinq/yopinq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
